@@ -10,6 +10,11 @@ I was invited by the US Embassy in Seoul to lead a one day workshop for students
 
 The workshop followed curriculum I developed for Uncertainty School and Signing Coders. I asked Taekyung and Yumi from Stuckyi studio to help with teaching. It was once again a great experience to work with them.  
 
+
+
+![](https://raw.githubusercontent.com/tchoi8/grid/master/photos/taeyoon.jpg =600x)
+
+
 ##1. Grids 
 
 We started the workshop with a brief introduction about how humans and computers can communicate via code. 
@@ -22,17 +27,20 @@ Grids exercise.
 - Follow the classmate's code and draw on the right grid.
 - When done, open up the paper and see if there is any mistake.  
  
-![](https://raw.githubusercontent.com/tchoi8/grid/master/materials/grids.jpg)
+![](https://raw.githubusercontent.com/tchoi8/grid/master/materials/grids.jpg =600x)
 
 
 This exercise is new, based on the Bit's journey and Drawing robot exercises I made in the past. It worked very well this time, it helped breaking the ice in the classroom and release any tension about what we are about to learn. 
 
+![](https://raw.githubusercontent.com/tchoi8/grid/master/photos/grids.jpg =600x)
 
 ##2. Data visualization 
 
 Chapter two slides and codes were prepared by the Stuckyi studio.   
+![](https://raw.githubusercontent.com/tchoi8/grid/master/photos/yumi.jpg =600x)
 
-![](https://raw.githubusercontent.com/tchoi8/grid/master/materials/dataviz.jpg)
+
+![](https://raw.githubusercontent.com/tchoi8/grid/master/materials/dataviz.jpg =600x)
 
 
 Data viz exercise
@@ -41,12 +49,19 @@ Data viz exercise
 - Ask other classmates to put a sticker on their favorite item.
 - Continue until you run out of stickers.   
 
+![](https://raw.githubusercontent.com/tchoi8/grid/master/photos/dataviz.jpg =600x)
+
+It was a blast. I wish I can share the pictures of their smile and laughter. 
 
 After a short break, we introduced how to show text on canvas and how to use multiplication to draw many boxes at once. Some part of the lesson was repetition of part one, which was a good chance for everyone to catch up and grasp the idea firmly. We also provided a print out of the code with annotations, so students could continue on their own speed.  
 
-3. Drawing with code
+![](https://raw.githubusercontent.com/tchoi8/grid/master/photos/taegyung.jpg =600x)
+
+##3. Drawing with code
 
 I introduced the concept of mouseX and mouseY and made a drawing application. 
+
+![](https://raw.githubusercontent.com/tchoi8/grid/master/photos/whale.jpg =600x)
 
 We also introduced the concept of random() which was a huge joy for the students. The final concept was if(){} statement. 
 
@@ -67,3 +82,5 @@ Learning to code is similar to learning to play piano. The biggest difficulty is
 
 Since the students were adaptive and quick, we exceeded the materials we prepared. We improvised in the end, introducing some higher lever concepts and art works using code.
 
+
+![](https://raw.githubusercontent.com/tchoi8/grid/master/photos/heart.jpg =600x)
