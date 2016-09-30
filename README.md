@@ -27,20 +27,20 @@ Grids exercise.
 - Follow the classmate's code and draw on the right grid.
 - When done, open up the paper and see if there is any mistake.  
  
-![](https://raw.githubusercontent.com/tchoi8/grid/master/materials/grids.jpg =600x)
-
+<img src="https://raw.githubusercontent.com/tchoi8/grid/master/materials/grids.jpg" width="600">
 
 This exercise is new, based on the Bit's journey and Drawing robot exercises I made in the past. It worked very well this time, it helped breaking the ice in the classroom and release any tension about what we are about to learn. 
 
-![](https://raw.githubusercontent.com/tchoi8/grid/master/photos/grids.jpg =600x)
+<img src="https://raw.githubusercontent.com/tchoi8/grid/master/photos/grids.jpg" width=600>
 
 ##2. Data visualization 
 
 Chapter two slides and codes were prepared by the Stuckyi studio.   
-![](https://raw.githubusercontent.com/tchoi8/grid/master/photos/yumi.jpg =600x)
+
+<img src="https://raw.githubusercontent.com/tchoi8/grid/master/photos/yumi.jpg" width ="600">
 
 
-![](https://raw.githubusercontent.com/tchoi8/grid/master/materials/dataviz.jpg =600x)
+<img src="https://raw.githubusercontent.com/tchoi8/grid/master/materials/dataviz.jpg" width ="600">
 
 
 Data viz exercise
@@ -49,19 +49,19 @@ Data viz exercise
 - Ask other classmates to put a sticker on their favorite item.
 - Continue until you run out of stickers.   
 
-![](https://raw.githubusercontent.com/tchoi8/grid/master/photos/dataviz.jpg =600x)
+<img src="https://raw.githubusercontent.com/tchoi8/grid/master/photos/dataviz.jpg" width ="600">
 
 It was a blast. I wish I can share the pictures of their smile and laughter. 
 
 After a short break, we introduced how to show text on canvas and how to use multiplication to draw many boxes at once. Some part of the lesson was repetition of part one, which was a good chance for everyone to catch up and grasp the idea firmly. We also provided a print out of the code with annotations, so students could continue on their own speed.  
 
-![](https://raw.githubusercontent.com/tchoi8/grid/master/photos/taegyung.jpg =600x)
+<img src="https://raw.githubusercontent.com/tchoi8/grid/master/photos/taegyung.jpg" width ="600">
 
 ##3. Drawing with code
 
 I introduced the concept of mouseX and mouseY and made a drawing application. 
 
-![](https://raw.githubusercontent.com/tchoi8/grid/master/photos/whale.jpg =600x)
+<img src="https://raw.githubusercontent.com/tchoi8/grid/master/photos/whale.jpg" width ="600">
 
 We also introduced the concept of random() which was a huge joy for the students. The final concept was if(){} statement. 
 
@@ -83,4 +83,4 @@ Learning to code is similar to learning to play piano. The biggest difficulty is
 Since the students were adaptive and quick, we exceeded the materials we prepared. We improvised in the end, introducing some higher lever concepts and art works using code.
 
 
-![](https://raw.githubusercontent.com/tchoi8/grid/master/photos/heart.jpg =600x)
+<img src= "https://raw.githubusercontent.com/tchoi8/grid/master/photos/heart.jpg" width ="600">
