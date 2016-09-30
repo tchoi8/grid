@@ -12,7 +12,7 @@ The workshop followed curriculum I developed for Uncertainty School and Signing 
 
 
 
-![](https://raw.githubusercontent.com/tchoi8/grid/master/photos/taeyoon.jpg =600x)
+<img src="https://raw.githubusercontent.com/tchoi8/grid/master/photos/taeyoon.jpg" width="600")
 
 
 ##1. Grids 
