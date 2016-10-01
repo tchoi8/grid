@@ -7,7 +7,7 @@ I was invited by the US Embassy in Seoul to lead a one day workshop for students
 
 #The curriculum
 
-The workshop followed curriculum I developed for Uncertainty School and Signing Coders. I asked Taekyung and Yumi from [Stuckyi studio](stuckyi-codetype.tumblr.com) to help with teaching. It was once again a great experience to work with them.  
+The workshop followed curriculum I developed for Uncertainty School and Signing Coders. I asked Taegyoung and Yumi from [Stuckyi studio](stuckyi-codetype.tumblr.com) to help with teaching. It was once again a great experience to work with them.  
 
 <img src="https://raw.githubusercontent.com/tchoi8/grid/master/photos/taeyoon.jpg" width="600">
 
@@ -90,4 +90,4 @@ Since the students were adaptive and quick, we exceeded the materials we prepare
 
 <img src= "https://raw.githubusercontent.com/tchoi8/grid/master/photos/heart.jpg" width ="600">
 
-Special thanks to Yumi and Taekyung of Stuckyi studio, Jiyoung, Marie, Marc of the US Embassy Seoul and the Pastor John Chon and the vice principal Chon of the Daum School.  
+Special thanks to Yumi and Taegyoung of Stuckyi studio, Jiyoung, Marie, Marc of the US Embassy Seoul and the Pastor John Chon and the vice principal Chon of the Daum School.  
