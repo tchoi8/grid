@@ -90,5 +90,8 @@ Since the students were adaptive and quick, we exceeded the materials we prepare
 
 
 <img src= "https://raw.githubusercontent.com/tchoi8/grid/master/photos/heart.jpg" width ="600">
+<img src= "https://raw.githubusercontent.com/tchoi8/grid/master/photos/canvas.jpg" width ="600">
+<img src= "https://raw.githubusercontent.com/tchoi8/grid/master/photos/workshop.jpg" width ="600">
+
 
 Special thanks to Yumi and Taegyoung of Stuckyi studio, Jiyoung, Marie, Marc of the US Embassy Seoul and the Pastor John Chon and the vice principal Chon of the Daum School.  
